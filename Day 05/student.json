@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Talha",
+        "age": 24,
+        "roll_number": 264,
+        "major": "Science"
+    },
+    {
+        "name": "Tuaha",
+        "age": 19,
+        "roll_number": 222,
+        "major": "Arts"
+    },
+    {
+        "name": "Haroon",
+        "age": 18,
+        "roll_number": 432,
+        "major": "Science"
+    },
+    {
+        "name": "Mamoon",
+        "age": 20,
+        "roll_number": 345,
+        "major": "Arts"
+    },
+    {
+        "name": "Yousaf",
+        "age": 19,
+        "roll_number": 567,
+        "major": "Science"
+    },
+    {
+        "name": "Faisal",
+        "age": 18,
+        "roll_number": 987,
+        "major": "Arts"
+    },
+    {
+        "name": "Hussain",
+        "age": 20,
+        "roll_number": 789,
+        "major": "Science"
+    }
+]
